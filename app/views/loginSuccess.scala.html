@@ -1,0 +1,41 @@
+@import helper._
+
+@(loginUser: LoginUser)
+@e0=@{loginUser.elem0}
+@e1=@{loginUser.elem1}
+@e2=@{loginUser.elem2}
+@e3=@{loginUser.elem3}
+@e4=@{loginUser.elem4}
+@e5=@{loginUser.elem5}
+@e6=@{loginUser.elem6}
+
+
+
+@main("せいこう"){
+    <font size=5>■まとまる！</font><br/>
+    <div style="padding: 10px; margin-bottom: 10px; border: 5px double #333333;">
+        <table>
+        <thead>
+            <tr><th>@e0</th>
+        </thead>
+        <thead>
+            <tr><th>どんなもの？</th><th>先行研究と比べてどこがすごい？</th>
+        </thead>
+        <tbody>
+            <tr><td>@e1</td><td>@e2</td></tr>
+        </tbody>
+        <thead>
+            <tr><th>技術や手法のキモはどこ？</th><th>どうやって有効と判断した？</th>
+        </thead>
+        <tbody>
+            <tr><td>@e3</td><td>@e4</td></tr>
+        </tbody>
+        <thead>
+            <tr><th>議論はある？</th><th>次に読むべき論文は？</th>
+        </thead>
+        <tbody>
+            <tr><td>@e5</td><td>@e6</td></tr>
+        </tbody>
+        </table>
+    </div>
+}

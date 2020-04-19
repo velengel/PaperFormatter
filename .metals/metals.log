@@ -1,0 +1,285 @@
+INFO  started: Metals version 0.8.4 in workspace '/Users/kou/Documents/programming/scala/workspace/playnew/calculate'
+INFO  time: initialize in 4.89s
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/views/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/views/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/views/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/views/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/views/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/Basic.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+4月 17, 2020 1:26:50 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 636
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  code navigation does not work for the file '/Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala' because it doesn't belong to a build target.
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/kou/Documents/programming/scala/workspace/playnew/calculate'
+INFO  time: initialize in 2.39s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/Basic.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+INFO  no build target: using presentation compiler with only scala-library
+4月 18, 2020 5:23:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15
+4月 18, 2020 5:23:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 16
+4月 18, 2020 5:23:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 17
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+4月 18, 2020 5:23:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 19
+4月 18, 2020 5:23:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 21
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/Basic.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/Basic.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/Basic.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/Basic.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/BasicForm.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/HomeController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+4月 19, 2020 9:44:14 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 714
+4月 19, 2020 9:44:15 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 716
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+4月 19, 2020 9:44:18 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 729
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+4月 19, 2020 9:52:06 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 923
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+4月 19, 2020 9:57:53 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1243
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+INFO  skipping build import with status 'Requested'
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/kou/Documents/programming/scala/workspace/playnew/calculate'
+INFO  time: initialize in 2.66s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+INFO  no build target: using presentation compiler with only scala-library
+4月 19, 2020 11:53:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 8
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+4月 19, 2020 11:53:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 9
+4月 19, 2020 11:53:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 12
+4月 19, 2020 11:53:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13
+4月 19, 2020 11:53:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10
+4月 19, 2020 11:53:05 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 11
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.4 in workspace '/Users/kou/Documents/programming/scala/workspace/playnew/calculate'
+INFO  time: initialize in 2.48s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+4月 19, 2020 12:12:13 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1
+INFO  no build target: using presentation compiler with only scala-library
+4月 19, 2020 12:12:21 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 20
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+4月 19, 2020 12:19:10 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 310
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/models/models.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
