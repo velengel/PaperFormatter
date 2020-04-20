@@ -283,3 +283,4 @@ WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/play
 WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
 WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
 WARN  no build target for: /Users/kou/Documents/programming/scala/workspace/playnew/calculate/app/controllers/LoginController.scala
+INFO  shutting down Metals

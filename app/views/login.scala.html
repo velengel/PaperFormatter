@@ -2,17 +2,26 @@
 @import helper._
 
 @main("ろんぶんぶん"){
-    <font size=5>■ろんぶんをまとめよう！</font><br/>
+    <font size=8>■ろんぶんをまとめよう！</font><br/>
     @helper.form( action = helper.CSRF(routes.LoginController.loginSubmit) ){
+      <div style="margin-left:10%;margin-right:10%;">
         <fieldset>
-          @helper.inputText(loginUserForm("elem0") , '_label -> "出典リンク", 'size -> 200, 'placeholder -> "ぴよぴよ")
-          @helper.inputText(loginUserForm("elem1") , '_label -> "どんなもの？", 'size -> 200, 'placeholder -> "ぽよぽよ")
-          @helper.inputText(loginUserForm("elem2") , '_label -> "先行研究と比べてどこがすごい？", 'size -> 200, 'placeholder -> "ぽよぽよ")
-          @helper.inputText(loginUserForm("elem3") , '_label -> "技術や手法のキモはどこ？", 'size -> 200, 'placeholder -> "ぽよぽよ")
-          @helper.inputText(loginUserForm("elem4") , '_label -> "どうやって有効と判断した？", 'size -> 200, 'placeholder -> "ぽよぽよ")
-          @helper.inputText(loginUserForm("elem5") , '_label -> "議論はある？", 'size -> 200, 'placeholder -> "ぽよぽよ")
-          @helper.inputText(loginUserForm("elem6") , '_label -> "次に読むべき論文は？", 'size -> 200, 'placeholder -> "ぽよぽよ")
+          <font size=4>
+            <div class="textbox">@helper.inputText(loginUserForm("elem0") , '_label -> "○出典リンク", 'size -> 200, 'placeholder -> "ぴよぴよ")</div>
+          <div class="textbox">@helper.textarea(loginUserForm("elem1") , '_label -> "○どんなもの？", 'size -> 200, 'placeholder -> "ぽよぽよ", 'rows -> 15, 'cols -> 100)</div>
+          <div class="textbox">@helper.textarea(loginUserForm("elem2") , '_label -> "○先行研究と比べてどこがすごい？", 'size -> 200, 'placeholder -> "ぽよぽよ", 'rows -> 15, 'cols -> 100)</div>
+          <div class="textbox">@helper.textarea(loginUserForm("elem3") , '_label -> "○技術や手法のキモはどこ？", 'size -> 200, 'placeholder -> "ぽよぽよ", 'rows -> 15, 'cols -> 100)</div>
+          <div class="textbox">@helper.textarea(loginUserForm("elem4") , '_label -> "○どうやって有効と判断した？", 'size -> 200, 'placeholder -> "ぽよぽよ", 'rows -> 15, 'cols -> 100)</div>
+          <div class="textbox">@helper.textarea(loginUserForm("elem5") , '_label -> "○議論はある？", 'size -> 200, 'placeholder -> "ぽよぽよ", 'rows -> 15, 'cols -> 100)</div>
+          <div class="textbox">@helper.textarea(loginUserForm("elem6") , '_label -> "○次に読むべき論文は？", 'size -> 200, 'placeholder -> "ぽよぽよ", 'rows -> 15, 'cols -> 100)</div>
+
+          </font>
+          
+          
         </fieldset>
-        <input type="submit" value="まとまる">
+        
+          <input type="submit" style="width:100%;height:50px;" value="まとまる">
+        </div>
+        
     }
 }
